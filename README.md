@@ -1,4 +1,4 @@
-#JavaScript Weather App
+### JavaScript Weather App
 
 [Weather App](https://avocado-man.github.io/javascript-weather-app/)
 
